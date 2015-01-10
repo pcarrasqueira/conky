@@ -12,4 +12,4 @@ conky files configuration
 -> change conkyrc and conky_ to .conkyrc and .conky_
 
 
-preview : https://imagizer.imageshack.us/v2/1191x650q90/194/gn6p.png
+preview : http://i.imgur.com/vyF6h84.png
